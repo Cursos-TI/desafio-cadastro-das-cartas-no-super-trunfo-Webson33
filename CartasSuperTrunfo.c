@@ -6,6 +6,11 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
+// Definindo o tamanho máximo para strings
+#define TAM_CODIGO 4
+#define TAM_NOME 50
+
+
 int main() {
     // Variáveis para a primeira carta
     char estado1;
